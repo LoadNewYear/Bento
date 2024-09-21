@@ -18,12 +18,12 @@
 
   /* Fonts Color */
   --fg: #d0d0d0; /* Foreground color */
-  --sfg: #515768; /* Sceondary Foreground color */
+  --sfg: #d0d0d0; /* Sceondary Foreground color */
 
   /* Light Colors  */
-  --accent: #57a0d9; /* Hover color */
-  --background: #f5f5f5; /* Background color */
-  --cards: #e4e6e6; /* Cards color */
+  --accent: #515768; /* Hover color */
+  --background: #000000; /* Background color */
+  --cards: #000000; /* Cards color */
 
   /* Image background  */
   --imgbg: url(assets/background.jpg); /* Image URL */
